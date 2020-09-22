@@ -1,0 +1,49 @@
+.gallery img {
+    width:100%;
+}
+h4{
+    font-family: fantasy; color:crimson;
+}
+#menu{
+    Width=100%;
+    Height=40px;
+    background-color:cornflowerblue;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+#menu a{color:floralwhite;
+    font-family:"Lucida Sans Unicode";
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 800;
+        
+    padding-left: :20px;
+    padding-right: 20px;
+    
+}
+#menu a:hover{
+    color:#5077bd;
+
+}
+h2{font-family:"Lucida Sans Unicode";
+    background-image:url(images/Galaxy.jpg);
+    font-size-adjust: auto;
+    color: aliceblue;
+}
+
+#menu{background-image:url(images/Avengers.jpg) ;
+ background-repeat:repeat-X;
+  background-blend-mode:lighten;
+  background-position: center;
+  text-align: center;
+    
+    
+}
+h2{
+  background-color:darkgoldenrod;
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  text-align: center;
+  padding: 20px;
+}
